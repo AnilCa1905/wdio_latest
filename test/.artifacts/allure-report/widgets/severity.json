@@ -1,0 +1,1 @@
+[{"uid":"7cd006b4569a41bd","name":"should validate the buttons present in the landing page","time":{"start":1695281803258,"stop":1695281810737,"duration":7479},"status":"passed","severity":"normal"},{"uid":"6d0ad89b5407bb2e","name":"should launch the Url","time":{"start":1695281799332,"stop":1695281803252,"duration":3920},"status":"passed","severity":"normal"}]

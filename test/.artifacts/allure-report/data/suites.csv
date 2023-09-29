@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 21 13:06:43 IST 2023","Thu Sep 21 13:06:50 IST 2023","7479","","WebdriverIO","","","","should validate the buttons present in the landing page",""
+"passed","Thu Sep 21 13:06:39 IST 2023","Thu Sep 21 13:06:43 IST 2023","3920","","WebdriverIO","","","","should launch the Url",""
